@@ -16,7 +16,6 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-//problem: https://www.hackerrank.com/challenges/lonely-integer
 vector<int> merge( vector <int> &b,  vector <int> &c){
 		vector <int> temp;
 		 int i = 0, j = 0; 
